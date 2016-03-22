@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="062a244b-e742-422e-b483-8c85530aa927" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fenExpress.html" afterPath="$PROJECT_DIR$/fenExpress.html" />
-    </list>
+    <list default="true" id="062a244b-e742-422e-b483-8c85530aa927" name="Default" comment="" />
     <ignored path="FenExpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
